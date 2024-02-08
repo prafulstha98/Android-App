@@ -4,3 +4,4 @@ This is my first Android application
 Author - Praful Shrestha
 <br>
 Location - Kalimati, Kathmandu
+I'm using java to build this app
